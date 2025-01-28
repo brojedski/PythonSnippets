@@ -1,0 +1,20 @@
+INSTALL REQUIREMENTS:
+pip install requests beautifulsoup4
+
+
+RUN THE SCRIPT:
+python scraper.py
+
+If It Still Doesn't Work:
+Check for these common issues:
+
+🔴 Red error messages in the console
+
+🔒 SSL errors (try http:// instead of https://)
+
+🌐 No internet connection
+
+🔍 Invalid CSS selectors
+
+📁 Write permissions in the current directory
+
